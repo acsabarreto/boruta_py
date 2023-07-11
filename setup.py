@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Boruta',
-      version='{{VERSION_PLACEHOLDER}}',
+      version='2.0.2',
       description='Python Implementation of Boruta Feature Selection',
       url='https://github.com/danielhomola/boruta_py',
       download_url='https://github.com/danielhomola/boruta_py/tarball/0.1.5',
